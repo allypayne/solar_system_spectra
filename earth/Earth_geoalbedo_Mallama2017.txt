@@ -1,0 +1,10 @@
+# johnson cousins effective wavelength (micron), JC geo. Albedo from Mallama 2017, Full width half max (micron) (use as filter width)
+# Filters in order: U,B,V,R,I,Rc,Ic
+# Mallama et al. 2017 Table 1 and Table 7
+0.360 0.688 0.068
+0.436 0.512 0.098
+0.549 0.434 0.086
+0.700 0.418 0.209
+0.900 0.430 0.221
+0.641 0.392 0.158
+0.798 0.396 0.154
